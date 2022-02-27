@@ -1,0 +1,77 @@
+{
+  "question": [
+    "Q1. What Indian city is the capital of two states?",
+    "Q2. Which city is the capital of India?",
+    "Q3. Smallest State of India?",
+    "Q4. Where is Taj Mahal Located?",
+	"Q5  Where is Bandipur National Park situated",
+	"Q6  What is the full form of ISRO",
+	"Q7  Name the richest person (2021) in India",
+	"Q8  Name the smallest perfect number",
+	"Q9  Name the state that has the longest coastline in India",
+	"Q10 Who of the following invented Facebook"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+	1,
+	1,
+	2,
+	3,
+	1,
+	1
+  ],
+  "options": [
+
+    ["Chandigarh",
+      "Kolkata",
+      "Delhi",
+      "Banglore"
+    ],
+    ["Jaipur",
+      "Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    ["Rajasthan",
+      "Punjab",
+      "Goa",
+      "Bihar"
+    ],
+    ["Lucknow",
+      "Agra",
+      "Bhopal",
+      "Delhi"
+    ],
+	["Karnataka",
+	"Goa",
+	"Bihar",
+	"Mp"
+   ],
+   ["Indian Space Research Organisation",
+   "Indian Sector Research Organisation",
+   "Indian Space Search Organisation",
+   "Indian Smallest Research Organisation"
+   ],
+   ["Indira Gandhi",
+   "Mukesh Ambani",
+   "Ratan Tata",
+   "Atal Bihari Vajpeyi"
+   ],
+   ["1",
+   "4", 
+   "6",
+   "0"],
+   ["Gujrat",
+   "Maharashtra",
+   "UP",
+   "MP"
+   ],
+   ["Mark Zuckerberg", 
+   "Benjamin Franklin",
+   "Robert Fulton",
+   "None of the above"]
+   ]
+}
